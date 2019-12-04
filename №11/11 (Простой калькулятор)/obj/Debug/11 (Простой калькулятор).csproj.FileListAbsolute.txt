@@ -1,0 +1,24 @@
+C:\Users\c_class\Desktop\Брагин Кирилл\11 (Простой калькулятор)\11 (Простой калькулятор)\bin\Debug\11 (Простой калькулятор).exe.config
+C:\Users\c_class\Desktop\Брагин Кирилл\11 (Простой калькулятор)\11 (Простой калькулятор)\bin\Debug\11 (Простой калькулятор).exe
+C:\Users\c_class\Desktop\Брагин Кирилл\11 (Простой калькулятор)\11 (Простой калькулятор)\bin\Debug\11 (Простой калькулятор).pdb
+C:\Users\c_class\Desktop\Брагин Кирилл\11 (Простой калькулятор)\11 (Простой калькулятор)\obj\Debug\11 (Простой калькулятор).csprojResolveAssemblyReference.cache
+C:\Users\c_class\Desktop\Брагин Кирилл\11 (Простой калькулятор)\11 (Простой калькулятор)\obj\Debug\_11__Простой_калькулятор_.Form1.resources
+C:\Users\c_class\Desktop\Брагин Кирилл\11 (Простой калькулятор)\11 (Простой калькулятор)\obj\Debug\_11__Простой_калькулятор_.Properties.Resources.resources
+C:\Users\c_class\Desktop\Брагин Кирилл\11 (Простой калькулятор)\11 (Простой калькулятор)\obj\Debug\11 (Простой калькулятор).csproj.GenerateResource.Cache
+C:\Users\c_class\Desktop\Брагин Кирилл\11 (Простой калькулятор)\11 (Простой калькулятор)\obj\Debug\11 (Простой калькулятор).exe
+C:\Users\c_class\Desktop\Брагин Кирилл\11 (Простой калькулятор)\11 (Простой калькулятор)\obj\Debug\11 (Простой калькулятор).pdb
+F:\Общая папка\ИСПк-201-52-00\Брагин Кирилл\11 (Простой калькулятор)\11 (Простой калькулятор)\bin\Debug\11 (Простой калькулятор).exe.config
+F:\Общая папка\ИСПк-201-52-00\Брагин Кирилл\11 (Простой калькулятор)\11 (Простой калькулятор)\obj\Debug\11 (Простой калькулятор).exe
+F:\Общая папка\ИСПк-201-52-00\Брагин Кирилл\11 (Простой калькулятор)\11 (Простой калькулятор)\obj\Debug\11 (Простой калькулятор).pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\ПРОСТОЙ КАЛЬКУЛЯТОР\11 (Простой калькулятор)\bin\Debug\11 (Простой калькулятор).exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\ПРОСТОЙ КАЛЬКУЛЯТОР\11 (Простой калькулятор)\obj\Debug\11 (Простой калькулятор).exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\ПРОСТОЙ КАЛЬКУЛЯТОР\11 (Простой калькулятор)\obj\Debug\11 (Простой калькулятор).pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№11\11 (Простой калькулятор)\bin\Debug\11 (Простой калькулятор).exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№11\11 (Простой калькулятор)\obj\Debug\11 (Простой калькулятор).exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№11\11 (Простой калькулятор)\obj\Debug\11 (Простой калькулятор).pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№11\11 (Простой калькулятор)\bin\Debug\11 (Простой калькулятор).exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№11\11 (Простой калькулятор)\bin\Debug\11 (Простой калькулятор).pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№11\11 (Простой калькулятор)\obj\Debug\11 (Простой калькулятор).csprojResolveAssemblyReference.cache
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№11\11 (Простой калькулятор)\obj\Debug\_11__Простой_калькулятор_.Form1.resources
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№11\11 (Простой калькулятор)\obj\Debug\_11__Простой_калькулятор_.Properties.Resources.resources
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№11\11 (Простой калькулятор)\obj\Debug\11 (Простой калькулятор).csproj.GenerateResource.Cache

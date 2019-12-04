@@ -1,0 +1,9 @@
+C:\Users\c_class\Desktop\Кэрьюша\8 (ИМЯ)\8 (ИМЯ)\bin\Debug\8 (ИМЯ).exe.config
+C:\Users\c_class\Desktop\Кэрьюша\8 (ИМЯ)\8 (ИМЯ)\bin\Debug\8 (ИМЯ).exe
+C:\Users\c_class\Desktop\Кэрьюша\8 (ИМЯ)\8 (ИМЯ)\bin\Debug\8 (ИМЯ).pdb
+C:\Users\c_class\Desktop\Кэрьюша\8 (ИМЯ)\8 (ИМЯ)\obj\Debug\8 (ИМЯ).csprojResolveAssemblyReference.cache
+C:\Users\c_class\Desktop\Кэрьюша\8 (ИМЯ)\8 (ИМЯ)\obj\Debug\_8__ИМЯ_.Form1.resources
+C:\Users\c_class\Desktop\Кэрьюша\8 (ИМЯ)\8 (ИМЯ)\obj\Debug\_8__ИМЯ_.Properties.Resources.resources
+C:\Users\c_class\Desktop\Кэрьюша\8 (ИМЯ)\8 (ИМЯ)\obj\Debug\8 (ИМЯ).csproj.GenerateResource.Cache
+C:\Users\c_class\Desktop\Кэрьюша\8 (ИМЯ)\8 (ИМЯ)\obj\Debug\8 (ИМЯ).exe
+C:\Users\c_class\Desktop\Кэрьюша\8 (ИМЯ)\8 (ИМЯ)\obj\Debug\8 (ИМЯ).pdb
