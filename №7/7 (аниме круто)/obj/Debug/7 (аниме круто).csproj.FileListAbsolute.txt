@@ -1,0 +1,8 @@
+C:\Users\c_class\Desktop\Кэрьюша\7 (аниме круто)\7 (аниме круто)\bin\Debug\7 (аниме круто).exe.config
+C:\Users\c_class\Desktop\Кэрьюша\7 (аниме круто)\7 (аниме круто)\bin\Debug\7 (аниме круто).exe
+C:\Users\c_class\Desktop\Кэрьюша\7 (аниме круто)\7 (аниме круто)\bin\Debug\7 (аниме круто).pdb
+C:\Users\c_class\Desktop\Кэрьюша\7 (аниме круто)\7 (аниме круто)\obj\Debug\_7__аниме_круто_.Form1.resources
+C:\Users\c_class\Desktop\Кэрьюша\7 (аниме круто)\7 (аниме круто)\obj\Debug\_7__аниме_круто_.Properties.Resources.resources
+C:\Users\c_class\Desktop\Кэрьюша\7 (аниме круто)\7 (аниме круто)\obj\Debug\7 (аниме круто).csproj.GenerateResource.Cache
+C:\Users\c_class\Desktop\Кэрьюша\7 (аниме круто)\7 (аниме круто)\obj\Debug\7 (аниме круто).exe
+C:\Users\c_class\Desktop\Кэрьюша\7 (аниме круто)\7 (аниме круто)\obj\Debug\7 (аниме круто).pdb

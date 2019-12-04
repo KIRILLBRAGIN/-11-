@@ -1,0 +1,18 @@
+C:\Users\c_class\Desktop\Кэрьюша\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\bin\Debug\4 (ЩЕЛЧКИ).exe.config
+C:\Users\c_class\Desktop\Кэрьюша\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\bin\Debug\4 (ЩЕЛЧКИ).exe
+C:\Users\c_class\Desktop\Кэрьюша\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\bin\Debug\4 (ЩЕЛЧКИ).pdb
+C:\Users\c_class\Desktop\Кэрьюша\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\obj\Debug\_4__ЩЕЛЧКИ_.Form1.resources
+C:\Users\c_class\Desktop\Кэрьюша\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\obj\Debug\_4__ЩЕЛЧКИ_.Properties.Resources.resources
+C:\Users\c_class\Desktop\Кэрьюша\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\obj\Debug\4 (ЩЕЛЧКИ).csproj.GenerateResource.Cache
+C:\Users\c_class\Desktop\Кэрьюша\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\obj\Debug\4 (ЩЕЛЧКИ).exe
+C:\Users\c_class\Desktop\Кэрьюша\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\obj\Debug\4 (ЩЕЛЧКИ).pdb
+E:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\bin\Debug\4 (ЩЕЛЧКИ).exe.config
+E:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\bin\Debug\4 (ЩЕЛЧКИ).exe
+E:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\bin\Debug\4 (ЩЕЛЧКИ).pdb
+E:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\obj\Debug\4 (ЩЕЛЧКИ).csprojAssemblyReference.cache
+E:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\obj\Debug\_4__ЩЕЛЧКИ_.Form1.resources
+E:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\obj\Debug\_4__ЩЕЛЧКИ_.Properties.Resources.resources
+E:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\obj\Debug\4 (ЩЕЛЧКИ).csproj.GenerateResource.cache
+E:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\obj\Debug\4 (ЩЕЛЧКИ).csproj.CoreCompileInputs.cache
+E:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\obj\Debug\4 (ЩЕЛЧКИ).exe
+E:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\4 (ЩЕЛЧКИ)\4 (ЩЕЛЧКИ)\obj\Debug\4 (ЩЕЛЧКИ).pdb

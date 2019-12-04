@@ -1,0 +1,9 @@
+C:\Users\c_class\Desktop\Кэрьюша\5 (4 кнопки)\5 (4 кнопки)\bin\Debug\5 (4 кнопки).exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№5 (доделать)\5 (4 кнопки)\bin\Debug\5 (4 кнопки).exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№5 (доделать)\5 (4 кнопки)\bin\Debug\5 (4 кнопки).exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№5 (доделать)\5 (4 кнопки)\bin\Debug\5 (4 кнопки).pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№5 (доделать)\5 (4 кнопки)\obj\Debug\_5__4_кнопки_.Form1.resources
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№5 (доделать)\5 (4 кнопки)\obj\Debug\_5__4_кнопки_.Properties.Resources.resources
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№5 (доделать)\5 (4 кнопки)\obj\Debug\5 (4 кнопки).csproj.GenerateResource.Cache
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№5 (доделать)\5 (4 кнопки)\obj\Debug\5 (4 кнопки).exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\Практическая работа №11 (ООП)\№5 (доделать)\5 (4 кнопки)\obj\Debug\5 (4 кнопки).pdb
