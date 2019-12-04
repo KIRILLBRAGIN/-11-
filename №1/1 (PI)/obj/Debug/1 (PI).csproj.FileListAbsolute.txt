@@ -1,0 +1,8 @@
+C:\Users\c_class\Desktop\Кэрьюша\1 (PI)\1 (PI)\bin\Debug\1 (PI).exe.config
+C:\Users\c_class\Desktop\Кэрьюша\1 (PI)\1 (PI)\bin\Debug\1 (PI).exe
+C:\Users\c_class\Desktop\Кэрьюша\1 (PI)\1 (PI)\bin\Debug\1 (PI).pdb
+C:\Users\c_class\Desktop\Кэрьюша\1 (PI)\1 (PI)\obj\Debug\_1__PI_.Form1.resources
+C:\Users\c_class\Desktop\Кэрьюша\1 (PI)\1 (PI)\obj\Debug\_1__PI_.Properties.Resources.resources
+C:\Users\c_class\Desktop\Кэрьюша\1 (PI)\1 (PI)\obj\Debug\1 (PI).csproj.GenerateResource.Cache
+C:\Users\c_class\Desktop\Кэрьюша\1 (PI)\1 (PI)\obj\Debug\1 (PI).exe
+C:\Users\c_class\Desktop\Кэрьюша\1 (PI)\1 (PI)\obj\Debug\1 (PI).pdb

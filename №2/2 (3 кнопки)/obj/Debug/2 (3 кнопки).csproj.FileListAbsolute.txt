@@ -1,0 +1,16 @@
+C:\Users\c_class\Desktop\Кэрьюша\2 (3 кнопки)\2 (3 кнопки)\bin\Debug\2 (3 кнопки).exe.config
+C:\Users\c_class\Desktop\Кэрьюша\2 (3 кнопки)\2 (3 кнопки)\bin\Debug\2 (3 кнопки).exe
+C:\Users\c_class\Desktop\Кэрьюша\2 (3 кнопки)\2 (3 кнопки)\bin\Debug\2 (3 кнопки).pdb
+C:\Users\c_class\Desktop\Кэрьюша\2 (3 кнопки)\2 (3 кнопки)\obj\Debug\_2__3_кнопки_.Form1.resources
+C:\Users\c_class\Desktop\Кэрьюша\2 (3 кнопки)\2 (3 кнопки)\obj\Debug\_2__3_кнопки_.Properties.Resources.resources
+C:\Users\c_class\Desktop\Кэрьюша\2 (3 кнопки)\2 (3 кнопки)\obj\Debug\2 (3 кнопки).csproj.GenerateResource.Cache
+C:\Users\c_class\Desktop\Кэрьюша\2 (3 кнопки)\2 (3 кнопки)\obj\Debug\2 (3 кнопки).exe
+C:\Users\c_class\Desktop\Кэрьюша\2 (3 кнопки)\2 (3 кнопки)\obj\Debug\2 (3 кнопки).pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\2 (3 кнопки)\2 (3 кнопки)\bin\Debug\2 (3 кнопки).exe.config
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\2 (3 кнопки)\2 (3 кнопки)\obj\Debug\2 (3 кнопки).exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\2 (3 кнопки)\2 (3 кнопки)\obj\Debug\2 (3 кнопки).pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\2 (3 кнопки)\2 (3 кнопки)\bin\Debug\2 (3 кнопки).exe
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\2 (3 кнопки)\2 (3 кнопки)\bin\Debug\2 (3 кнопки).pdb
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\2 (3 кнопки)\2 (3 кнопки)\obj\Debug\_2__3_кнопки_.Form1.resources
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\2 (3 кнопки)\2 (3 кнопки)\obj\Debug\_2__3_кнопки_.Properties.Resources.resources
+D:\рефераты\2 LVL\Osnovi algoriymizacii i programmirovaniya\ПР 10 (ООП)\2 (3 кнопки)\2 (3 кнопки)\obj\Debug\2 (3 кнопки).csproj.GenerateResource.Cache
